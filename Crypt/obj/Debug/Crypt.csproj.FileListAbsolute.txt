@@ -1,0 +1,8 @@
+C:\Users\Alex\source\repos\Crypt\Crypt\bin\Debug\Crypt.exe.config
+C:\Users\Alex\source\repos\Crypt\Crypt\bin\Debug\Crypt.exe
+C:\Users\Alex\source\repos\Crypt\Crypt\bin\Debug\Crypt.pdb
+C:\Users\Alex\source\repos\Crypt\Crypt\obj\Debug\Crypt.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Crypt\Crypt\obj\Debug\Crypt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\Crypt\Crypt\obj\Debug\Crypt.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Crypt\Crypt\obj\Debug\Crypt.exe
+C:\Users\Alex\source\repos\Crypt\Crypt\obj\Debug\Crypt.pdb
